@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011283217747",
+    "project_id": "smart-transport-app-dd307",
+    "storage_bucket": "smart-transport-app-dd307.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011283217747:android:1487bf91b862284dafa5a6",
+        "android_client_info": {
+          "package_name": "com.example.smart_transport_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt7EumL8-emA_tOS8tLL_KRfwqFACGbNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
